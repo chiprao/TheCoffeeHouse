@@ -1,0 +1,4 @@
+.root {
+    -fx-background-image: url('../view/imagesFiles/Bia.jpg');
+    -fx-background-size: cover;
+}
